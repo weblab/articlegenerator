@@ -5,6 +5,8 @@
 
 网页版项目 https://github.com/suulnnka/BullshitGenerator
 
+网页版 https://articlegenerator.web-lab.ml/
+
 修改:  
 1.设计并移植至浏览器  
 2.修正标点及布局的bug  
